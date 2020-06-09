@@ -1,0 +1,13 @@
+C:\t\helloworld\EventPractice\EventPractice\bin\Debug\netcoreapp3.1\EventPractice.exe
+C:\t\helloworld\EventPractice\EventPractice\bin\Debug\netcoreapp3.1\EventPractice.deps.json
+C:\t\helloworld\EventPractice\EventPractice\bin\Debug\netcoreapp3.1\EventPractice.runtimeconfig.json
+C:\t\helloworld\EventPractice\EventPractice\bin\Debug\netcoreapp3.1\EventPractice.runtimeconfig.dev.json
+C:\t\helloworld\EventPractice\EventPractice\bin\Debug\netcoreapp3.1\EventPractice.dll
+C:\t\helloworld\EventPractice\EventPractice\bin\Debug\netcoreapp3.1\EventPractice.pdb
+C:\t\helloworld\EventPractice\EventPractice\obj\Debug\netcoreapp3.1\EventPractice.csprojAssemblyReference.cache
+C:\t\helloworld\EventPractice\EventPractice\obj\Debug\netcoreapp3.1\EventPractice.AssemblyInfoInputs.cache
+C:\t\helloworld\EventPractice\EventPractice\obj\Debug\netcoreapp3.1\EventPractice.AssemblyInfo.cs
+C:\t\helloworld\EventPractice\EventPractice\obj\Debug\netcoreapp3.1\EventPractice.csproj.CoreCompileInputs.cache
+C:\t\helloworld\EventPractice\EventPractice\obj\Debug\netcoreapp3.1\EventPractice.dll
+C:\t\helloworld\EventPractice\EventPractice\obj\Debug\netcoreapp3.1\EventPractice.pdb
+C:\t\helloworld\EventPractice\EventPractice\obj\Debug\netcoreapp3.1\EventPractice.genruntimeconfig.cache

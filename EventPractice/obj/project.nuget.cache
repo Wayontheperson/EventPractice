@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "9EbubKwWnPtPt9fvcVhUWdbSwLUY6OT5Lo8kptEJuDZKT4g9ZVBqXvyjBMowFmaa0veBC4u4rnyQG3KjbKCkKg==",
+  "success": true,
+  "projectFilePath": "C:\\t\\helloworld\\EventPractice\\EventPractice\\EventPractice.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kccistc\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
