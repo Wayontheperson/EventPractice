@@ -1,10 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "9EbubKwWnPtPt9fvcVhUWdbSwLUY6OT5Lo8kptEJuDZKT4g9ZVBqXvyjBMowFmaa0veBC4u4rnyQG3KjbKCkKg==",
+  "dgSpecHash": "U/JbL6YzGKRpM54S8fRuRfAWhRINAna9q9y23lho2xal/J0Rqm7DI31s8+XLZDYjgr8n+qc3RUkBG8FiLP1xUw==",
   "success": true,
-  "projectFilePath": "C:\\t\\helloworld\\EventPractice\\EventPractice\\EventPractice.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\kccistc\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
-  ],
+  "projectFilePath": "C:\\C#code\\EventPractice\\EventPractice\\EventPractice.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }

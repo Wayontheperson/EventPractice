@@ -1,9 +1,10 @@
 ﻿using System;
+using System.ComponentModel.Design;
 using System.Dynamic;
 
 namespace EventPractice
 {
-    public class Peson
+    public class Person
     {
         private int _age;
 
@@ -13,7 +14,7 @@ namespace EventPractice
         
         public string _Name { get; set; }
 
-        public Peson(int age, string name)
+        public Person(int age, string name)
         {
             _age = age;
             _name = name;
@@ -27,14 +28,14 @@ namespace EventPractice
 
         public delegate void AgeChangedHandeler(object sender, EventArgs e);
 
-        public event AgeChangedHandeler AgeChanged;
+        public event EventHandler<AgeChangedEventAgrs> AgeChanged;
 
         public void IncreaseAge()
         {
-            int oldage = _age;
+            int oldAge = _age;
             _age++;
             if (AgeChanged != null)
-                AgeChanged(oldage, _age);
+                AgeChanged(this,new AgeChangedEventAgrs(oldAge,_age));
         }
         
     }
