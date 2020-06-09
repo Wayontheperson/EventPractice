@@ -25,9 +25,9 @@ namespace EventPractice
         //     Console.WriteLine($"{oldage} -> {_age} ");
         // }
 
-        public delegate void AgeChangedDelgate(int oldage, int newAge);
+        public delegate void AgeChangedHandeler(object sender, EventArgs e);
 
-        public AgeChangedDelgate AgeChanged;
+        public event AgeChangedHandeler AgeChanged;
 
         public void IncreaseAge()
         {
@@ -36,11 +36,6 @@ namespace EventPractice
             if (AgeChanged != null)
                 AgeChanged(oldage, _age);
         }
-
-        public event AgeChangedEventHandler AgeChanged;
         
-        public void 
-
-
     }
 }
